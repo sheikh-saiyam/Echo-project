@@ -1,0 +1,9 @@
+/*media start*/
+@media (max-width:426px) {
+    .testimonials{
+        width: 100%;
+        height: fit-content;
+        display: grid;
+    }
+  }
+  
